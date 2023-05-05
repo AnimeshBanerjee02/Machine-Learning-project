@@ -1,0 +1,7 @@
+Build machine Learning model(classification) for the fruits dataset listed below
+Dataset link: https://www.kaggle.com/datasets/mjamilmoughal/fruits-with-colors-dataset
+Do data ingestion (convert dataset into dataframe)
+Do some preprocessing(if required)
+Identify the input and output columns. Remove the unwanted columns.
+Build multiple ML models(use different classification algorithms) and compare the accuracies.(Google the best classification algorithms and use a few common ones here).
+Evaluate the model.
